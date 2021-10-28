@@ -1,4 +1,4 @@
-# Descripción de los conceptos
+# Descripción de los pasos
 ## Modulo-1-01-Conceptos-Básicos-Tarea-01-Ejercicio-1
 ### Daniela Uribe Giraldo
 
